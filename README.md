@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kynot54
-- 👀 I’m interested in ... basketball, ceramics, aspire to learn how to devlop and engineer software (individually and as a team).
+- 👀 I’m interested in: basketball, ceramics, aspire to learn how to devlop and engineer software (individually and as a team).
 - 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... web and app devlopment.
 - 📫 How to reach me ... at my burner email kwhynott54@yahoo.com (Please include reason for contacting in subject line; reason being is I will think 
