@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kynot54
-- 👀 I’m interested in: basketball, ceramics, aspire to learn how to develop and engineer software (individually and as a team).
-- 🌱 I’m currently learning ... Ethical Hacking.
-- 💞️ I’m looking to collaborate on ... web and app devlopment.
-- 📫 How to reach me ... at my burner email kwhynott54@yahoo.com 
+- Hello, I’m Kyle Whynottt
+- I am currently learning ... Web Back-End and Data Science.
+- I am looking to collaborate on ... data science and software engineering projects.
+- How to reach me ... at my email kwhynott54@yahoo.com
+- In my free time I spend it on my hobbies basketball, ceramics, and developing open-source software.
