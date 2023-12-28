@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/badge/go-white?style=for-the-badge&logo=go"/>
     <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge"/>
   </div>
 <h1> Front-End Development </h1>
   <div id="frontend">
@@ -22,6 +21,7 @@
   </div>
 <h1> Back-End Development </h1>
   <div id="backend">
+    <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=C0765A"/>
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite3-white?style=for-the-badge&logo=sqlite&logoColor=1CA9E3"/>
