@@ -24,7 +24,7 @@
   <div id="backend">
     <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=C0765A"/>
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite3-blue?style=for-the-badge&logo=sqlite"/>
+    <img src="https://img.shields.io/badge/SQLite3-white?style=for-the-badge&logo=sqlite&logoColor=1CA9E3"/>
     <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask"/>
     <img src="https://img.shields.io/badge/FastAPI-red?style=for-the-badge&logo=fastapi"/>
     <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge"/>
@@ -46,8 +46,8 @@
   </div>
 <h2> Other Technologies </h1>
   <div id="other">
-    <img src="https://img.shields.io/badge/Deno-blue?style=for-the-badge&logo=deno"/>
-    <img src="https://img.shields.io/badge/Node&#46js-blue?style=for-the-badge&logo=node&#46js"/>
+    <img src="https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno"/>
+    <img src="https://img.shields.io/badge/Node&#46js-green?style=for-the-badge&logo=node&#46js"/>
     <img src="https://img.shields.io/badge/Visual%20Studio&#47Code-grey?style=for-the-badge&logo=visualstudiocode"/>
     <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git"/>
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
