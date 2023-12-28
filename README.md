@@ -48,14 +48,13 @@
 <h2> Other Technologies </h1>
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif"/>
+</div>
 
 ### About Me:
 - 
 - 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif"/>
-</div>
 
 ---
 
