@@ -1,7 +1,7 @@
 ![Github-Profile-Banner](https://github.com/Kynot54/Kynot54/assets/36772228/d3048018-de91-44f3-83cf-d814f1edbc85)
 <h1> Programming Languages <h1/>
   <div id="badges">
-    <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </div>
