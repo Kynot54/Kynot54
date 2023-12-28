@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/React-343a46?style=for-the-badge&logo=react"/>
     <img src="https://img.shields.io/badge/Next&#46js-black?style=for-the-badge&logo=next&#46js"/>
     <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
-    <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
+    <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-white?style=for-the-badge&logo=bootstrap"/>
   </div>
 <h1> Back-End Development </h1>
   <div id="backend">
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask"/>
     <img src="https://img.shields.io/badge/FastAPI-e2e4e9d1?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Redis-grey?style=for-the-badge&logo=redis"/>
+    <img src="https://img.shields.io/badge/Redis-161f31?style=for-the-badge&logo=redis"/>
     <img src="https://img.shields.io/badge/DynamoDB-grey?style=for-the-badge&logo=amazondynamodb"/>
     <img src="https://img.shields.io/badge/RabbitMQ-grey?style=for-the-badge&logo=rabbitmq"/>
   </div>
