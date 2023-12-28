@@ -3,7 +3,7 @@
   <div id="languages">
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
     <img src="https://img.shields.io/badge/C&#43&#43-blue?style=for-the-badge&logo=cplusplus"/>
-    <img src="https://img.shields.io/badge/C&#35js-grey?style=for-the-badge&logo=c&#35"/>
+    <img src="https://img.shields.io/badge/C&#35js-grey?style=for-the-badge&logo=c#"/>
     <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python"/>
     <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust"/>
     <img src="https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin"/>
