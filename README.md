@@ -24,7 +24,7 @@
   <div id="backend">
     <img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb"/>
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-    <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite"/>
+    <img src="https://img.shields.io/badge/SQLite3-blue?style=for-the-badge&logo=sqlite"/>
     <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask"/>
     <img src="https://img.shields.io/badge/FastAPI-red?style=for-the-badge&logo=fastapi"/>
     <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge"/>
