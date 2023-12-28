@@ -39,8 +39,8 @@
 <br />
 <h1>Data Science<h1>
   <div id="ds">
-    <img src="https://img.shields.io/badge/OpenAI%20API-blue?style=for-the-badge&logo=openai"/>
-    <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas"/>
+    <img src="https://img.shields.io/badge/OpenAI%20API-black?style=for-the-badge&logo=openai"/>
+    <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas"/>
     <img src="https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikit&#45learn"/>
   </div>
