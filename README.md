@@ -44,8 +44,8 @@
   <div id="ds">
     <img src="https://img.shields.io/badge/OpenAI%20API-purple?style=for-the-badge&logo=openai"/>
     <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
-    <img src="https://img.shields.io/badge/MatPlotLib-purple?style=for-the-badge&logo=matplotlib"/>
-    <img src="https://img.shields.io/badge/Scikit&#45Learn-purple?style=for-the-badge&logo=scikit&#45learn"/>
+    <img src="https://img.shields.io/badge/Numpy-purple?style=for-the-badge&logo=numpy"/>
+    <img src="https://img.shields.io/badge/Scikit&#45Learn?style=for-the-badge&logo=scikit&#45learn"/>
   </div>
 <h2> Other Technologies </h1>
   <div id="other">
