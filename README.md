@@ -22,7 +22,7 @@
   </div>
 <h1> Back-End Development </h1>
   <div id="backend">
-    <img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb"/>
+    <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=C0765A"/>
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
     <img src="https://img.shields.io/badge/SQLite3-blue?style=for-the-badge&logo=sqlite"/>
     <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask"/>
