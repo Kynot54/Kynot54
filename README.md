@@ -57,6 +57,7 @@
 - 
 
 ---
+### My Statistics:
 
 <div id="footer" align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Kynot54&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Kyle's Developer Statistics"/>
