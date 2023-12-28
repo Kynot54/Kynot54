@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python"/>
     <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust"/>
     <img src="https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin"/>
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java"/>
-    <img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html"/>
+    <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5"/>
+    <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
   </div>
 <h1> Front-End Development </h1>
