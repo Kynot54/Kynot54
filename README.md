@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c"/>
     <img src="https://img.shields.io/badge/C&#43&#43-blue?style=for-the-badge&logo=cplusplus"/>
     <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python"/>
-    <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust"/>
+    <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=black"/>
     <img src="https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin"/>
     <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5"/>
     <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3"/>
