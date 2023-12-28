@@ -1,8 +1,8 @@
 ![Github-Profile-Banner](https://github.com/Kynot54/Kynot54/assets/36772228/d3048018-de91-44f3-83cf-d814f1edbc85)
 <h1> Programming Languages <h1/>
   <div id="badges">
-    <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=c"/>
-    <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=cplusplus"/>
+    <img src="https://img.shields.io/badge/JavaScript-light-blue?style=for-the-badge&logo=c"/>
+    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=cplusplus"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=python"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
   </div>
