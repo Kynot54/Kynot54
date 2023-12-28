@@ -47,7 +47,7 @@
 <h2> Other Technologies </h1>
   <div id="other">
     <img src="https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno"/>
-    <img src="https://img.shields.io/badge/Node&#46js-green?style=for-the-badge&logo=node&#46js&logoColor=grey"/>
+    <img src="https://img.shields.io/badge/Node&#46js-grey?style=for-the-badge&logo=node&#46js&logoColor=grey"/>
     <img src="https://img.shields.io/badge/Visual%20Studio&#47Code-purple?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=red"/>
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
