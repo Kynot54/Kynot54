@@ -52,6 +52,8 @@
     <img src="https://img.shields.io/badge/Deno-blue?style=for-the-badge&logo=deno"/>
     <img src="https://img.shields.io/badge/Node&#46js-blue?style=for-the-badge&logo=node&#46js"/>
     <img src="https://img.shields.io/badge/Visual%20Studio&#47Code-grey?style=for-the-badge&logo=visualstudiocode"/>
+    <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git"/>
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
   </div>
 
 ---
