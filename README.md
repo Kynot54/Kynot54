@@ -1,6 +1,6 @@
 ![Github-Profile-Banner](https://github.com/Kynot54/Kynot54/assets/36772228/d3048018-de91-44f3-83cf-d814f1edbc85)
 <h1> Programming Languages <h1/>
-  <div id="badges">
+  <div id="languages">
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
     <img src="https://img.shields.io/badge/C&#43&#43-blue?style=for-the-badge&logo=cplusplus"/>
     <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python"/>
@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
   </div>
 <h1> Front-End Development </h1>
+  <div id="frontend">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+    <img src="https://img.shields.io/badge/Nextjs-blue?style=for-the-badge&logo=nextjs"/>
+    <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
+    <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
+  </div>
 <h1> Back-End Development </h1>
 <h1> Mobile Development </h1>
 <br />
