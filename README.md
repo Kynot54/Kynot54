@@ -46,6 +46,7 @@
   <div id="other">
     <img src="https://img.shields.io/badge/Deno-grey?style=for-the-badge&logo=deno"/>
     <img src="https://img.shields.io/badge/Node&#46js-grey?style=for-the-badge&logo=node&#46js"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio&#47Code-grey?style=for-the-badge&logo=visualstudiocode"/>
   </div>
 
 ---
