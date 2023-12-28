@@ -29,8 +29,8 @@
     <img src="https://img.shields.io/badge/FastAPI-e2e4e9d1?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Redis-161f31?style=for-the-badge&logo=redis"/>
-    <img src="https://img.shields.io/badge/DynamoDB-grey?style=for-the-badge&logo=amazondynamodb"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-grey?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DynamoDB-grey?style=for-the-badge&logo=amazondynamodb&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-white?style=for-the-badge&logo=rabbitmq"/>
   </div>
 <h1> Mobile Development </h1>
   <div id="mobile">
