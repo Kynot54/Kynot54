@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=C0765A"/>
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite3-white?style=for-the-badge&logo=sqlite&logoColor=1CA9E3"/>
-    <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask"/>
+    <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=red"/>
     <img src="https://img.shields.io/badge/FastAPI-e2e4e9d1?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Redis-161f31?style=for-the-badge&logo=redis"/>
