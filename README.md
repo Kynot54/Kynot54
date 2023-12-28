@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
   </div>
 <h1> Back-End Development </h1>
+  <div id="backend">
     <img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb"/>
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
     <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite"/>
@@ -34,6 +35,7 @@
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go"/>
     <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
+  </div>
 <h1> Database Technologies </h1>
 <h1> Mobile Development </h1>
   <div id="mobile">
