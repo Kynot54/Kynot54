@@ -34,7 +34,7 @@
   </div>
 <h1> Mobile Development </h1>
   <div id="mobile">
-    <img src="https://img.shields.io/badge/Android-blue?style=for-the-badge&logo=androidstudio"/>
+    <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=androidstudio"/>
   </div>
 <br />
 <h1>Data Science<h1>
