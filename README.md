@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go"/>
     <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
+    <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=sql"/>
   </div>
 <h1> Front-End Development </h1>
   <div id="frontend">
@@ -20,7 +21,16 @@
     <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
   </div>
 <h1> Back-End Development </h1>
-
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
+    <img src="https://img.shields.io/badge/C&#43&#43-blue?style=for-the-badge&logo=cplusplus"/>
+    <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python"/>
+    <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust"/>
+    <img src="https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin"/>
+    <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5"/>
+    <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3"/>
+    <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go"/>
+    <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
 <h1> Database Technologies </h1>
 <h1> Mobile Development </h1>
   <div id="mobile">
