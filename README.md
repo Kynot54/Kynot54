@@ -42,15 +42,15 @@
 <br />
 <h1>Data Science<h1>
   <div id="ds">
-    <img src="https://img.shields.io/badge/OpenAI%20API?style=for-the-badge&logo=openai"/>
-    <img src="https://img.shields.io/badge/Pandas?style=for-the-badge&logo=pandas"/>
-    <img src="https://img.shields.io/badge/Numpy?style=for-the-badge&logo=numpy"/>
-    <img src="https://img.shields.io/badge/Scikit&#45Learn?style=for-the-badge&logo=scikit&#45learn"/>
+    <img src="https://img.shields.io/badge/OpenAI%20API-blue?style=for-the-badge&logo=openai"/>
+    <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas"/>
+    <img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy"/>
+    <img src="https://img.shields.io/badge/Scikit&#45Learn-blue?style=for-the-badge&logo=scikit&#45learn"/>
   </div>
 <h2> Other Technologies </h1>
   <div id="other">
-    <img src="https://img.shields.io/badge/Deno?style=for-the-badge&logo=deno"/>
-    <img src="https://img.shields.io/badge/Node&#46js?style=for-the-badge&logo=node&#46js"/>
+    <img src="https://img.shields.io/badge/Deno-blue?style=for-the-badge&logo=deno"/>
+    <img src="https://img.shields.io/badge/Node-blue&#46js?style=for-the-badge&logo=node&#46js"/>
     <img src="https://img.shields.io/badge/Visual%20Studio&#47Code-grey?style=for-the-badge&logo=visualstudiocode"/>
   </div>
 
