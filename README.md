@@ -31,8 +31,6 @@
     <img src="https://img.shields.io/badge/Redis-grey?style=for-the-badge&logo=redis"/>
     <img src="https://img.shields.io/badge/DynamoDB-grey?style=for-the-badge&logo=amazondynamodb"/>
     <img src="https://img.shields.io/badge/RabbitMQ-grey?style=for-the-badge&logo=rabbitmq"/>
-    <img src="https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go"/>
-    <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
   </div>
 <h1> Mobile Development </h1>
   <div id="mobile">
@@ -42,6 +40,11 @@
     <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
   </div>
 <br />
+<h1>Data Science<h1>
+  <div id="ds">
+    <img src="https://img.shields.io/badge/OpenAI%20API-purple?style=for-the-badge&logo=openai"/>
+    <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
+  </div>
 <h2> Other Technologies </h1>
   <div id="other">
     <img src="https://img.shields.io/badge/Deno-grey?style=for-the-badge&logo=deno"/>
