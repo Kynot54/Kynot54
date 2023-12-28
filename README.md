@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Redis-161f31?style=for-the-badge&logo=redis"/>
     <img src="https://img.shields.io/badge/DynamoDB-grey?style=for-the-badge&logo=amazondynamodb"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-grey?style=for-the-badge&logo=rabbitmq"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-grey?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   </div>
 <h1> Mobile Development </h1>
   <div id="mobile">
