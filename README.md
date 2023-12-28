@@ -15,7 +15,7 @@
 <h1> Front-End Development </h1>
   <div id="frontend">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-    <img src="https://img.shields.io/badge/Nextjs-blue?style=for-the-badge&logo=nextjs"/>
+    <img src="https://img.shields.io/badge/Next&#46js-blue?style=for-the-badge&logo=nextjs"/>
     <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
     <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
   </div>
