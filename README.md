@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5"/>
     <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go"/>
+    <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
   </div>
 <h1> Front-End Development </h1>
 <h1> Back-End Development </h1>
