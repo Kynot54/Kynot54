@@ -1,22 +1,23 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
+![Github-Profile-Banner](https://github.com/Kynot54/Kynot54/assets/36772228/d3048018-de91-44f3-83cf-d814f1edbc85)
+# Programming Languages
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kyle-whynott/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-    <img src="https://komarev.com/ghpvc/?username=Kynot54&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+# Front-End Development
 
+# Back-End Developement
+
+# Other Technologies
 
 ---
+
+### About Me: ☕
 
 <div align="center">
   <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif"/>
 </div>
 
 ---
+
+- I am currently a Computer Science Student 
 
 <div id="footer" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kynot54&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Kyle's Developer Statistics"/>
