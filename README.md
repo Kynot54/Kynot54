@@ -35,9 +35,7 @@
 <h1> Mobile Development </h1>
   <div id="mobile">
     <img src="https://img.shields.io/badge/Android-blue?style=for-the-badge&logo=androidstudio"/>
-    <img src="https://img.shields.io/badge/Next&#46js-blue?style=for-the-badge&logo=next&#46js"/>
-    <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
-    <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Compose?style=for-the-badge&logo=jetpackcompose"/>
   </div>
 <br />
 <h1>Data Science<h1>
