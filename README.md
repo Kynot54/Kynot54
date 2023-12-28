@@ -1,4 +1,4 @@
-<head>
+<head align="center">
 <img style="width:100%;height:0;padding-bottom:89%;position:relative;" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
 </head>
 <footer>
