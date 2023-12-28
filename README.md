@@ -2,7 +2,7 @@
 <h1> Programming Languages <h1/>
   <div id="badges">
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=c"/>
-    <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=c&#43&#43"/>
+    <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=cplusplus"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=python"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
   </div>
