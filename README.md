@@ -17,10 +17,16 @@
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
     <img src="https://img.shields.io/badge/Next&#46js-blue?style=for-the-badge&logo=next&#46js"/>
     <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
-    <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
+    <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
   </div>
 <h1> Back-End Development </h1>
 <h1> Mobile Development </h1>
+  <div id="mobile">
+    <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=react"/>
+    <img src="https://img.shields.io/badge/Next&#46js-blue?style=for-the-badge&logo=next&#46js"/>
+    <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
+    <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
+  </div>
 <br />
 <h2> Other Technologies </h1>
 
