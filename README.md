@@ -1,5 +1,5 @@
 <header>
-<img style="width:100%;height:0;padding-bottom:89%;position:relative;justify-content:center;" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
+<img style="width:100%;height:0;padding-bottom:89%;position:relative;align-content:center;" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
 </header>
 <footer>
   <img style="width:100%;height:0;padding-bottom:89%;position:relative;" src="https://github-readme-stats.vercel.app/api?username=Kynot54&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Kyle's Developer Statistics"/>
