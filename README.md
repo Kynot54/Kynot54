@@ -21,11 +21,14 @@
     <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-red?style=for-the-badge&logo=bootstrap"/>
   </div>
 <h1> Back-End Development </h1>
-    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
-    <img src="https://img.shields.io/badge/C&#43&#43-blue?style=for-the-badge&logo=cplusplus"/>
-    <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python"/>
-    <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust"/>
-    <img src="https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin"/>
+    <img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb"/>
+    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+    <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite"/>
+    <img src="https://img.shields.io/badge/Node&#46js-grey?style=for-the-badge&logo=node&#46js"/>
+    <img src="https://img.shields.io/badge/Deno-grey?style=for-the-badge&logo=deno"/>
+    <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask"/>
+    <img src="https://img.shields.io/badge/FastAPI-red?style=for-the-badge&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/KrakenD-blue?style=for-the-badge&logo=kotlin"/>
     <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5"/>
     <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
