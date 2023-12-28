@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go"/>
     <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
-    <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=sql"/>
+    <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge"/>
   </div>
 <h1> Front-End Development </h1>
   <div id="frontend">
