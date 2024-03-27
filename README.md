@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Next&#46js-black?style=for-the-badge&logo=next&#46js"/>
     <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
     <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-white?style=for-the-badge&logo=bootstrap"/>
-    <img src="https://img.shields.io/badge/Bootstrap&#47Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
+    <img src="https://img.shields.io/badge/Bootstrap&#47Bootstrap-white?style=for-the-badge&logo=bootstrap"/>
   </div>
 <h1> Back-End Development </h1>
   <div id="backend">
