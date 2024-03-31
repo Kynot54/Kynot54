@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas"/>
     <img src="https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikit&#45learn"/>
+    <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow"/>
   </div>
 <h2> Other Technologies </h1>
   <div id="other">
