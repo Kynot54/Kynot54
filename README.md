@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte"/>
     <img src="https://img.shields.io/badge/Reactstrap&#47Bootstrap-white?style=for-the-badge&logo=bootstrap"/>
     <img src="https://img.shields.io/badge/Webpack-grey?style=for-the-badge&logo=webpack"/>
+    <img src="https://img.shields.io/badge/Vite-blue?style=for-the-badge&logo=vite"/>
   </div>
 <h1> Back-End Development </h1>
   <div id="backend">
