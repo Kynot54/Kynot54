@@ -56,6 +56,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio&#47Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=red"/>
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WordPress-grey?style=for-the-badge&logo=wordpress&logoColor=white"/>
   </div>
 
 ---
