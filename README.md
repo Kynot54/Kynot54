@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5"/>
     <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript"/>
-    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=typescript"/>
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/go-white?style=for-the-badge&logo=go"/>
     <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white"/>
   </div>
