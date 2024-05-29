@@ -64,10 +64,9 @@
 </div>
 
 ### About Me:
-Senior CS Student @ California State University, Fullerton (Graduating May'24)
-- Seeking Full-Time Employment or Becoming a Free-Lance Software Engineer
-- Currently, working on multiple Open Source Projects, Preparing for Technical Interviews (DSA), a Personal Project, Senior Project, and (tentatively) classes in the Spring '24 Semester
-
+Gradutae Software Engineering Student @ California State University, Fullerton
+- Currently engaging in personal projects and free-lance work
+- Activetly seeking full-time roles in Software Engineering, Dev Ops, Data Science / ML Engineering, and Application Security roles
 ---
 ### My Statistics:
 
